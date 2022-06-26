@@ -1,10 +1,3 @@
-# DEPRECATED
-Please use https://github.com/segler-alex/radiobrowser-web-angular
-
-# radiobrowser
-
-website frontend with angular 1.x for [radio-browser api](https://github.com/segler-alex/radiobrowser-api)
-
 ## Installation
 
 - `git clone <repository-url>` this repository
